@@ -1,38 +1,53 @@
-# 💻 Kaíque Nunes
-> Estudante de Ciência da Computação focado em **Ciência de Dados** & **Software Design**.
+# Kaíque Fraga
 
-Busco transformar dados em inteligência e construir soluções escaláveis. Atualmente focado em conquistar minha primeira oportunidade de **estágio** na área tech.
+Estudante de Ciência da Computação com foco em **Desenvolvimento de Software**, **Ciência de Dados** e **Automação com IA**. Tenho experiência prática na construção de pipelines de dados, integração de APIs e orquestração de Modelos de Linguagem (LLMs). Atualmente em busca da primeira oportunidade de estágio na área técnica.
 
 ---
 
-### 🎓 Certificação em Destaque
-- **Formação em Ciência de Dados** – Avanti / FBuni (Farias Brito) 📊
+### 🛠 Stack Tecnológico
 
-### 🛠️ Tecnologias & Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,docker,js,html,css,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,dart,js,html,css,postgres,mysql,docker,git,vscode" />
   </a>
 </p>
 
-### 🚀 Projeto Principal
-- **[Dashboard Palmer Penguins](https://github.com/0110101101100001/palmer-penguins-dashboard)**: Análise exploratória e visualização interativa de dados biológicos com Python. 🐧
+- **Linguagens:** Python, Java, C++, C, Dart, JavaScript
+- **IA & Automação:** n8n, Groq, Ollama, LM Studio, Whisper, Edge-TTS
+- **Backend & Dados:** PostgreSQL (Supabase), MySQL, Webhooks, APIs REST
+- **DevOps & Ferramentas:** Docker, Render, Git
 
 ---
 
-### 📊 Github Stats
+### 🚀 Projeto Principal
+
+- **[3D Physics Complexity](https://github.com/0110101101100001/3d-physics-complexity)**  
+  Aplicação web interativa 3D desenvolvida com Three.js para comparação visual de algoritmos de colisão espacial (AABB, Spatial Grid, Octree) em tempo real. O foco principal é a otimização computacional e a análise de complexidade assintótica no navegador.
+
+---
+
+### 🎓 Formação & Experiência
+
+- **Bacharelado em Ciência da Computação** — FBUni (2023 - 2027)
+- **Monitor de Lógica de Programação** — FBUni (Semestre 2026.2)
+- **DataSmart: Data Science com Python** — Instituto Atlântico (Avanti)
+- **Residência TIC e Dev de Software** — Instituto iRede
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=0110101101100001&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=0110101101100001&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="195" alt="streak graph"  />
 </div>
 
 ---
 
-### 🎮 Além do Terminal
-- 🖱️ Estrategista em **Deadlock**.
-- 🎧 Entusiasta de inovação e tendências de design.
+### 🎮 Informações Adicionais
+- Estrategista em **Deadlock**.
+- Entusiasta de arquitetura de software e design de interfaces.
 
-### 📫 Vamos conversar?
+### 📫 Contato
 <a href="https://www.linkedin.com/in/kaique-nunes-vasconcelos-fraga-580867286/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -40,7 +55,9 @@ Busco transformar dados em inteligência e construir soluções escaláveis. Atu
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<p align="center">
+<br>
+
+<p align="left">
   <img src="https://img.shields.io/github/stars/0110101101100001?style=flat&color=A0C3FF&label=Stars" />
   <img src="https://img.shields.io/github/followers/0110101101100001?style=flat&color=A0C3FF&label=Followers" />
 </p>
