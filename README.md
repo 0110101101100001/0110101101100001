@@ -31,7 +31,7 @@ Estudante de Ciência da Computação com foco em **Desenvolvimento de Software*
 ### 📊 Estatísticas
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=0110101101100001&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=0110101101100001&show_icons=true&theme=tokyonight&locale=pt-br" />
   <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0110101101100001&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
@@ -59,6 +59,3 @@ Estudante de Ciência da Computação com foco em **Desenvolvimento de Software*
   <img src="https://img.shields.io/github/stars/0110101101100001?style=flat&color=A0C3FF&label=Stars" />
   <img src="https://img.shields.io/github/followers/0110101101100001?style=flat&color=A0C3FF&label=Followers" />
 </p>
-```eof
-
-Eu adicionei os dois cards de estatísticas que você enviou como referência lado a lado (usando o seu usuário `0110101101100001`), e também aproveitei para aplicar o mesmo tema (`tokyonight`) no seu gráfico de "streak" para manter a consistência visual em todo o perfil. O que achou dessa disposição?
