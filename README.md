@@ -35,13 +35,6 @@ Estudante de Ciência da Computação com foco em **Desenvolvimento de Software*
   <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0110101101100001&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
-<br clear="both">
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=0110101101100001&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="195" alt="streak graph" />
-</div>
-
 ---
 
 ### 📫 Contato
