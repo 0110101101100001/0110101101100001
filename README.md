@@ -4,22 +4,22 @@ Estudante de Ciência da Computação com foco em **Desenvolvimento de Software*
 
 ---
 
-### 🛠 Stack Tecnológico
+### Stack Tecnológico
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,dart,js,html,css,postgres,mysql,docker,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,postgres,docker,kubernetes,react,git,vscode,supabase," />
   </a>
 </p>
 
-- **Linguagens:** Python, Java, C++, C, Dart, JavaScript
-- **IA & Automação:** n8n, Groq, Ollama, LM Studio, Whisper, Edge-TTS
-- **Backend & Dados:** PostgreSQL (Supabase), MySQL, Webhooks, APIs REST
-- **DevOps & Ferramentas:** Docker, Render, Git
+- **Linguagens & Web:** Python, Java, JavaScript, HTML5, CSS3
+- **Machine Learning & Ciência de Dados:** Scikit-Learn, XGBoost, Pandas, NumPy, Modelagem Preditiva
+- **DevOps, Infraestrutura & Orquestração:** Docker, Kubernetes (K8s), Render, Git, Automação (n8n)
+- **Backend, Dados & APIs:** FastAPI, REST APIs, PostgreSQL (Supabase), MySQL, Playwright (Scraping)
 
 ---
 
-### 🎓 Formação & Experiência
+### Formação & Experiência
 
 - **Bacharelado em Ciência da Computação** — FBUni (2023 - 2027)
 - **Monitor de Lógica de Programação** — FBUni (Semestre 2026.2)
@@ -28,7 +28,7 @@ Estudante de Ciência da Computação com foco em **Desenvolvimento de Software*
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=0110101101100001&show_icons=true&theme=tokyonight&locale=pt-br" />
@@ -40,7 +40,7 @@ Estudante de Ciência da Computação com foco em **Desenvolvimento de Software*
 
 ---
 
-### 📫 Contato
+### Contato
 
 <a href="https://www.linkedin.com/in/kaique-nunes-vasconcelos-fraga-580867286/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
