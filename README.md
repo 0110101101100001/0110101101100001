@@ -48,10 +48,3 @@ Estudante de Ciência da Computação com foco em **Desenvolvimento de Software*
 <a href="mailto:kaiquenvf@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br><br>
-
-<p align="left">
-  <img src="https://img.shields.io/github/stars/0110101101100001?style=flat&color=A0C3FF&label=Stars" />
-  <img src="https://img.shields.io/github/followers/0110101101100001?style=flat&color=A0C3FF&label=Followers" />
-</p>
